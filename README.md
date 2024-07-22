@@ -3,7 +3,7 @@
 
 A simple and fun React application that displays a list of monsters with their names and email addresses. Users can search for specific monsters using the search bar.
 
-![Monsters Rolodex](./path/to/your/screenshot.png)
+![Monsters Rolodex](https://github.com/user-attachments/assets/5838f689-0088-4737-ae0d-78ada8fe85ba)
 
 ## Table of Contents
 - [Demo](#demo)
@@ -15,7 +15,7 @@ A simple and fun React application that displays a list of monsters with their n
 - [License](#license)
 
 ## Demo
-You can see the live demo of the application [here](#). (Add your live demo link)
+You can see the live demo of the application [here](#https://yashasjkumar.github.io/monsters-rolodex/)
 
 ## Features
 - Display a list of monsters with their details.
@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/monsters-rolodex.git
+    git clone https://github.com/YashasJKumar/monsters-rolodex.git
     cd monsters-rolodex
     ```
 
