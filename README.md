@@ -12,10 +12,9 @@ A simple and fun React application that displays a list of monsters with their n
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Demo
-You can see the live demo of the application [here](#https://yashasjkumar.github.io/monsters-rolodex/)
+You can see the live demo of the application [here](https://yashasjkumar.github.io/monsters-rolodex/)
 
 ## Features
 - Display a list of monsters with their details.
@@ -56,5 +55,3 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
